@@ -286,6 +286,10 @@ footer {
 	height: 200px;
 }
 
+footer p a {
+	color: #a8f8dd;
+}
+
 footer span a {
 	color: #a8f8dd;
 }
